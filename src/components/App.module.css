@@ -7,8 +7,23 @@
   height: 150px;
   padding: 20px;
   color: white;
+  vertical-align: middle;
+}
+
+.GameTitle{
+  font-size: 60px;
+  letter-spacing:8px;
+  vertical-align:middle; 
 }
 
 .AppTitle {
   font-size: 1.5em;
+}
+
+.introduction{
+  font-size: 18px;margin-top: 40px;font-family: 'Lucida Calligraphy', cursive, serif, sans-serif;
+}
+
+.roomIntro{
+  font-size: 18px;margin-top: 20px;margin-bottom: 40px;
 }

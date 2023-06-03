@@ -1,4 +1,32 @@
-#_F_F_src_common_NotFound__scene-defaultpage-demo-basic {
+._F_F_src_components_App_module__App {
+  text-align: center;
+}
+
+._F_F_src_components_App_module__AppHeader {
+  background-color: #00BFFF;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  vertical-align: middle;
+}
+
+._F_F_src_components_App_module__GameTitle{
+  font-size: 60px;
+  letter-spacing:8px;
+  vertical-align:middle; 
+}
+
+._F_F_src_components_App_module__AppTitle {
+  font-size: 1.5em;
+}
+
+._F_F_src_components_App_module__introduction{
+  font-size: 18px;margin-top: 40px;font-family: 'Lucida Calligraphy', cursive, serif, sans-serif;
+}
+
+._F_F_src_components_App_module__roomIntro{
+  font-size: 18px;margin-top: 20px;margin-bottom: 40px;
+}#_F_F_src_common_NotFound__scene-defaultpage-demo-basic {
   position:relative;
   height:500px;
 }
@@ -60,17 +88,4 @@
 }
 ._F_F_src_common_NotFound__kuma-empty-data-icon {
   background-size: cover;
-}._F_F_src_components_App_module__App {
-  text-align: center;
-}
-
-._F_F_src_components_App_module__AppHeader {
-  background-color: #00BFFF;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-._F_F_src_components_App_module__AppTitle {
-  font-size: 1.5em;
 }
